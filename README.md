@@ -1,0 +1,3 @@
+[![Render in nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/stevenliuyi/china-district-shapes/blob/master/china-district-shapes.ipynb)
+
+This repository contains a Jupyter notebook, in which I used Hu moment invariants to find administrative divisions in China that have similar shapes as China itself. The shapes of the administrative division are taken from [Gaode Maps API](https://lbs.amap.com/). For more information, please refer to [the corresponding question on Zhihu](https://www.zhihu.com/question/52953107/answer/483920015).
